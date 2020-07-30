@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mevlutyildirim)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mevlutyildirim)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My Medium Articles 
 [web scraping with python](https://medium.com/@mevlutyildirim/web-scraping-with-python-5b1bb21fdb08)
