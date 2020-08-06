@@ -18,7 +18,7 @@
 * Currently working on my task-manager project. 
 * 4th grade software engineering student.
 * Open for opportunities.
-* if you have any question feel free to ask me
+* If you have any question feel free to ask me.
 
 <img  alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
