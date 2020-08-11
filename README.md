@@ -20,5 +20,5 @@
 * Open for opportunities.
 * If you have any question feel free to ask me.
 
-<img  alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
+<img  alt="GIF" src="https://media.giphy.com/media/sk6yL9EGVeAcE/giphy.gif" />
 
